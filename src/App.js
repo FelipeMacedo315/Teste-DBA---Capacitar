@@ -5,6 +5,7 @@ import ChallengeTwo from "./componentes/challengeTwo";
 import ChallengeTree from "./componentes/challengeTree";
 import ChallengeFor from "./componentes/challengeFor";
 import ChallengeFive from "./componentes/ChallengeFive";
+import ChallengeBonus from "./componentes/ChallengeBonus";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <ChallengeTree />
       <ChallengeFor />
       <ChallengeFive />
+      <ChallengeBonus />
     </div>
   );
 }
